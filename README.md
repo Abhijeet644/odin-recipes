@@ -1,2 +1,2 @@
 # odin-recipes
-A simple recipes website demonstrating the use of basic HTML commands.
+A simple website with a list of recipes demonstrating the use of basic HTML commands.
